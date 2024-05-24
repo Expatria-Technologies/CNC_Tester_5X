@@ -1,4 +1,4 @@
-Init
+Initialization (pre-test)
 $14=15
 $4=31
 $22=1
@@ -8,7 +8,7 @@ $45=0
 $6=1
 $X
 
-test
+Homing Test
 $H
 M4S200
 x-185y-185z-185a-185b-185
@@ -21,7 +21,7 @@ M64P1
 M64P2
 M64P3
 
-auxin
+Aux Input test
 M5
 G4P1
 M66 P0 L4 Q30
